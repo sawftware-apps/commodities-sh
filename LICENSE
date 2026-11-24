@@ -1,0 +1,9 @@
+Documentation notice
+
+The text and images in this repository describe the commodities.sh service.
+They are published so builders can find and connect the hosted MCP server.
+
+The commodities.sh service, API, and MCP server are not open source.
+Nothing in this repository grants a license to copy, modify, or rehost that service.
+
+Copyright Sawftware. All rights reserved.
